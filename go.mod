@@ -1,4 +1,4 @@
-module github.com/free5gc/nas
+module github.com/nycu-ucr/nas
 
 go 1.14
 
