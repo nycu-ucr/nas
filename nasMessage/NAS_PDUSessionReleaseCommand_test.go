@@ -7,9 +7,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/logger"
-	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/logger"
+	"github.com/nycu-ucr/nas/nasMessage"
+	"github.com/nycu-ucr/nas/nasType"
 )
 
 type nasMessagePDUSessionReleaseCommandData struct {

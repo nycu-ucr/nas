@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/binary"
 
-	"github.com/free5gc/nas/logger"
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/logger"
+	"github.com/nycu-ucr/nas/nasType"
 )
 
 type PDUSessionEstablishmentRequest struct {

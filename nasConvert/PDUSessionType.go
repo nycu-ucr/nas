@@ -1,7 +1,7 @@
 package nasConvert
 
 import (
-	"github.com/free5gc/nas/nasMessage"
+	"github.com/nycu-ucr/nas/nasMessage"
 	"github.com/nycu-ucr/openapi/models"
 )
 

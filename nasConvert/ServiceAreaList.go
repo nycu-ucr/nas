@@ -3,8 +3,8 @@ package nasConvert
 import (
 	"encoding/hex"
 
-	"github.com/free5gc/nas/logger"
-	"github.com/free5gc/nas/nasMessage"
+	"github.com/nycu-ucr/nas/logger"
+	"github.com/nycu-ucr/nas/nasMessage"
 	"github.com/nycu-ucr/openapi/models"
 )
 

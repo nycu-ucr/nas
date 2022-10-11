@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"reflect"
 
-	"github.com/free5gc/nas/logger"
+	"github.com/nycu-ucr/nas/logger"
 	"github.com/nycu-ucr/openapi/models"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"strconv"
 
-	"github.com/free5gc/nas/logger"
+	"github.com/nycu-ucr/nas/logger"
 	"github.com/nycu-ucr/openapi/models"
 )
 

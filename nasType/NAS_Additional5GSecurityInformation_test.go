@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/nasType"
 )
 
 func TestNasTypeNewAdditional5GSecurityInformation(t *testing.T) {

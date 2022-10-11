@@ -4,8 +4,8 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/nasMessage"
+	"github.com/nycu-ucr/nas/nasType"
 	"github.com/nycu-ucr/openapi/models"
 )
 
