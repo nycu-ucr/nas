@@ -5,7 +5,7 @@ import (
 
 	"github.com/free5gc/nas/logger"
 	"github.com/free5gc/nas/nasType"
-	"github.com/free5gc/openapi/models"
+	"github.com/nycu-ucr/openapi/models"
 )
 
 func SnssaiToModels(nasSnssai *nasType.SNSSAI) (snssai models.Snssai) {

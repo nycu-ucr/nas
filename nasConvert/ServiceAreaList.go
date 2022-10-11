@@ -5,7 +5,7 @@ import (
 
 	"github.com/free5gc/nas/logger"
 	"github.com/free5gc/nas/nasMessage"
-	"github.com/free5gc/openapi/models"
+	"github.com/nycu-ucr/openapi/models"
 )
 
 // TS 24.501 9.11.3.49
