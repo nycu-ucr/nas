@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/nasType"
 	"github.com/nycu-ucr/openapi/models"
 )
 

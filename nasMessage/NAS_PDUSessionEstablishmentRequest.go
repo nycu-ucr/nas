@@ -7,7 +7,7 @@ import (
 	"encoding/binary"
 	"fmt"
 
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/nasType"
 )
 
 type PDUSessionEstablishmentRequest struct {

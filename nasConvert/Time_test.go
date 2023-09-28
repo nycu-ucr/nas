@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/free5gc/nas/nasConvert"
-	"github.com/free5gc/nas/nasType"
+	"github.com/nycu-ucr/nas/nasConvert"
+	"github.com/nycu-ucr/nas/nasType"
 	"github.com/stretchr/testify/require"
 )
 
