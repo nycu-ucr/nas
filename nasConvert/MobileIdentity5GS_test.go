@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/free5gc/nas/nasType"
-	"github.com/free5gc/openapi/models"
+	"github.com/nycu-ucr/openapi/models"
 )
 
 func TestSuciToStringWithError(t *testing.T) {
