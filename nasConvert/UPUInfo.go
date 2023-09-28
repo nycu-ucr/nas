@@ -8,7 +8,7 @@ import (
 	"github.com/nycu-ucr/openapi/models"
 )
 
-//  subclause 9.11.3.53A in 3GPP TS 24.501.
+// subclause 9.11.3.53A in 3GPP TS 24.501.
 func UpuInfoToNas(upuInfo models.UpuInfo) []uint8 {
 	var buf []uint8
 
